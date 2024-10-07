@@ -1,12 +1,16 @@
 # PrimeTechForElders
 ## QueenB Hackathon Project - "Be Good"
-<br>
+
 This project was created by a group of talented high school students as part of the QueenB Hackathon organized by Microsoft. QueenB is an initiative focused on promoting women's involvement in tech and supporting gender diversity within the tech industry.
-<br><br>
+
+
+
 ### About the Hackathon
-<br>
+
 The theme of the hackathon was "Be Good," and it aimed to encourage participants to create technological solutions that benefit society. Teams from across Israel participated, presenting their projects in front of Microsoft programmers.
-<br><br>
+<br>
+<br>
+
 ### Project Overview
 <br>
 The students' project is a basic website designed to assist elderly populations by providing them with easy access to helpful resources and information. The site aims to make digital tools more accessible for senior citizens, helping them navigate technology with ease.
